@@ -31,3 +31,4 @@ view model =
     , text (String.fromInt model)
     , button [onClick Increment] [text "Increment"]
   ]
+  
